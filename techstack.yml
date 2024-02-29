@@ -2,7 +2,7 @@ repo_name: PopBot/grindcryption
 report_id: 6dd60248c4a48c99f23ed2ba7c70602f
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-31T18:55:22+00:00'
+timestamp: '2024-02-29T19:48:21+00:00'
 requested_by: juhoen
 provider: github
 branch: master
@@ -100,7 +100,7 @@ tools:
   last_updated_by: Juho Enala
   last_updated_on: 2019-09-06 07:26:24.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.18.2
   license: MIT
